@@ -7,3 +7,6 @@ d = a%10
 summ = b+c+d
 
 print(summ)
+print(summ)
+print(summ)
+print(summ)
