@@ -1,2 +1,2 @@
-a = int(input())
+a = int(input('Введите номер '))
 print(a)
